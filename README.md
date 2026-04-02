@@ -29,4 +29,4 @@
 تم بناء هذه الإضافة بأعلى معايير الأمان الخاصة بـ WordPress و WooCommerce. تعتمد الإضافة على نظام الـ `Zero-Trust` عبر التحقق المزدوج من العمليات باستخدام الـ API المباشر وتشفير الإشعارات.
 
 ---
-**Developed with ❤️ by [Qistass LLC](https://qistass.com)**
+**Developed by [Qistass LLC Syria ](https://qistass.com)**
